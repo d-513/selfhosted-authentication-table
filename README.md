@@ -1,13 +1,13 @@
 # selfhosted-authentication-table
 List of SelfHosted apps, with information about their support for OpenID / SAML / LDAP / Proxy Auth
 
-✔️ - Supported - all functionality works including mobile apps (if any)
-😔 - Supported, but breaks some features, mobile apps, users have to still be added manually or not maintained
-❌ - Unsupported
-❔ - Not known yet, to be added
+✔️ - Supported - all functionality works including mobile apps (if any)  
+😔 - Supported, but breaks some features, mobile apps, users have to still be added manually or not maintained  
+❌ - Unsupported  
+❔ - Not known yet, to be added  
 
-Proxy Auth theoretically works on all of them, but it will break functionality, display double logins etc.  
-So only those explicitly working great with it will be marked as such. Otherwise it will be unsupported.
+Proxy Auth theoretically works on all of them, but it will break functionality, display double logins etc.   
+So only those explicitly working great with it will be marked as such. Otherwise it will be unsupported.  
 
 | **Project**                                                       | **OpenID** | **LDAP** | **Proxy Auth** | **Additional Info**                                                                                                                                                                                                                                                                           |
 |-------------------------------------------------------------------|------------|----------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
